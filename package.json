@@ -1,5 +1,5 @@
 {
-  "name": "module-federation",
+  "name": "broken-mf-eager",
   "private": true,
   "scripts": {
     "start": "lerna bootstrap && lerna run --parallel start",
